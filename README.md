@@ -1,0 +1,2 @@
+# blue-river
+Static assets
